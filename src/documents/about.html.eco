@@ -1,0 +1,58 @@
+---
+layout: default
+title: About Me
+---
+
+<h1>About Me</h1>
+
+<img src="/photos/me-large.jpg" style="width: 100%; margin: 0 0 1em;" />
+
+<h2>Bio</h2>
+<p>I'm Brian Bal, a mobile developer working for <a href="http://activereplay.com">ActiveReplay</a> in Ypsilanti Michigan.</p>
+
+<h2>My Apps</h2>
+
+<h3>
+  <a href="/steps">
+    <img src="/img/steps/large_icon.png" style="width: 32px; margin: 0 10px;" />
+    Steps
+  </a>
+</h3>
+
+<p>
+  <img src="/img/steps/today.png" style="width: 160px; margin: 0 0 10px 10px;" />
+  <img src="/img/steps/week.png" style="width: 160px; margin: 0 0 10px 10px;"/>
+  <img src="/img/steps/map.png" style="width: 160px; margin: 0 0 10px 10px;" />
+  <img src="/img/steps/goal.png" style="width: 160px; margin: 0 0 10px 10px;" />
+</p>
+
+<hr />
+
+
+<h3>
+  <a href="https://dailyfocus.co">
+    <img src="/img/dailyfocus/large_icon.png" style="width: 32px; margin: 0 10px;" />
+    DailyFocus
+  </a>
+</h3>
+
+<p>
+  <img src="/img/dailyfocus/screenshot-1.png" style="width: 160px; margin: 0 0 10px 10px;" />
+  <img src="/img/dailyfocus/screenshot-2.png" style="width: 160px; margin: 0 0 10px 10px;"/>
+  <img src="/img/dailyfocus/screenshot-3.png" style="width: 160px; margin: 0 0 10px 10px;" />
+  <img src="/img/dailyfocus/screenshot-4.png" style="width: 160px; margin: 0 0 10px 10px;" />
+</p>
+
+<hr />
+
+
+<h3>
+  <a href="https://dailyfocus.co">
+    <img src="/img/gamebal/large_icon.png" style="width: 32px; margin: 0 10px;" />
+    GameBal.com
+  </a>
+</h3>
+
+<p>
+  <img src="/img/gamebal/screenshot.png" style="width: 720px; margin: 0;" />
+</p>

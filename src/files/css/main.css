@@ -1,0 +1,137 @@
+/* @group Boilerplate */
+
+html,
+button,
+input,
+select,
+textarea {
+    color: #222;
+}
+
+body {
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+img {
+    vertical-align: middle;
+}
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+textarea {
+    resize: vertical;
+}
+
+.chromeframe {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+
+
+/* @end */
+
+/* @group Initializr Styles */
+
+body {
+    font: 16px/26px Helvetica, Helvetica Neue, Arial;
+}
+
+/* @end */
+
+/* @group Layout */
+
+html {
+	border-top: 4px solid #006ab6;
+	padding-top: 15px;
+}
+
+#wrapper {
+	width: 960px;
+	margin: 0 auto;
+	background: #fff;
+}
+
+#wrapper:after, .clearfix:after {
+   content: " "; /* Older browser do not support empty content */
+   visibility: hidden;
+   display: block;
+   height: 0;
+   clear: both;
+}
+
+.header-container {
+	margin: 0;
+	width: 220px;
+	float: left;
+}
+
+.main-container {
+	margin: 0 20px 0 0;
+	width: 720px;
+	float: left;
+}
+
+.footer-container {
+	margin: 20px 0 0;
+	padding: 20px 0;
+	width: 100%;
+	float: left;
+	border-top: 1px dotted #ccc;
+}
+
+/* @end */
+
+/* @group Typography */
+
+h1, h2, h3, h4, h5, h6, p.tagline {
+	font-family: "Lato", san-serif;
+	font-weight: 700;
+	color: #363434;
+}
+
+h1 small {
+	font-size: 50%;
+}
+
+h1.title {
+	margin: 0;
+}
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+	color: #006ab6;
+	text-decoration: none;
+}
+
+h1 a:hover, h2 a:hover, h3 a, h4 a, h5 a, h6 a {
+	color: #005290;
+	text-decoration: none;
+}
+
+/* @end */
